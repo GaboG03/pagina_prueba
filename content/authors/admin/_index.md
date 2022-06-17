@@ -1,49 +1,34 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: "Gabriel Granda"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-highlight_name: true
+  - course: Ingeniería Matemática
+    institution: Escuela Politécnica Nacional 
+    year: 2022
+email: gabo_granda@hotmail.com
+highlight_name: yes
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ciencia de Datos
+- Estadística y Probabilidad
+- R 
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Escuela Politécnica Nacional
+  url: https://www.epn.edu.ec/
+role: Científico de Datos 
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/GaboG03
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-superuser: true
-title: Nelson Bighetti
+  link: https://www.linkedin.com/in/gabriel-granda/
+superuser: yes
+bio: Mis intereses de investigación se centran en la ciencia de datos, probabilidad y estadística y la matemática aplicada. 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Soy Matemático Aplicado de la Escuela Politécnica Nacional, mención Cum Laude. Actualmente, en cuanto a la parte laboral me desarrollo como Científico de Datos en Casabaca S.A. Independientemente como consultor he desarrollado algoritmos de Speech to Text y modelación analítica. Por otro lado, en cuanto a la parte académica me encuentro investigando sobre aplicaciones de la Teoría de Categorías. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
