@@ -1,52 +1,28 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The basic concepts of category theory are developed and examples of them are presented to illustrate them using measurement theory and probability theory tools. Motivated by Perrone’s work  where notes on category theory are developed with examples of basic mathematics, we present the concepts of category, functor, natural transformation, and products with examples in the probabilistic context.
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Miguel Flores
+date: "2021-12-20T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Commutative_diagram_for_morphism.svg/1024px-Commutative_diagram_for_morphism.svg.png)'
   focal_point: ""
   preview_only: false
 projects:
 - example
-publication: In *Wowchemy Conference*
+publication: In *arXiv*
 publication_short: In *ICW*
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-11-27T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The basic concepts of category theory are developed and examples of them are presented to illustrate them using measurement theory and probability theory tools. 
 tags: []
-title: An example conference paper
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+title: Category theory with examples in probability theory
+url_pdf: https://arxiv.org/pdf/2111.13837.pdf
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -24,15 +24,22 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description: 70%
+    icon: python
+    icon_pack: fab
+    name: Python
+  - description: 100%
+    icon: overleaf
+    icon_pack: ai
+    name: LaTeX
+  - description: 70%
+    icon: database
     icon_pack: fas
-    name: Photography
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"
+    name: SQL  
+  - description: 70%
+    icon: calculator
+    icon_pack: fas
+    name: Analítica
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
